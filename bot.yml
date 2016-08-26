@@ -1,0 +1,6 @@
+name: Pointy
+description: The Boss
+slackscopes:
+  - bot
+  - commands
+  - reactions:write
